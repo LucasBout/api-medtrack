@@ -56,5 +56,5 @@ app.get('/api/search', [
 });
 
 app.listen(port, () => {
-  console.log(`Serveur proxy en cours d'exécution sur le port ${port}`);
+  console.log(`Serveur proxy en cours d'exécution sur le port ${port}`); 
 });
